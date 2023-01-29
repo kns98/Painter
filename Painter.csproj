@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <!--Project was exported from assembly: C:\Users\kevin\Downloads\Painter_demo\Painter_demo\Painter.exe-->
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{19B0FCAF-845B-485C-912A-B6145D9FF9CB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AssemblyName>Painter</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <ApplicationVersion>1.0.0.0</ApplicationVersion>
+    <FileAlignment>512</FileAlignment>
+    <RootNamespace>Painter</RootNamespace>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\Settings.cs" />
+    <Compile Include="Properties\Resources.cs" />
+    <Compile Include="AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="MainForm.resx" />
+    <EmbeddedResource Include="Properties\Resources.resx" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Globe.Core.Converters\Globe.Core.Converters.csproj">
+      <Project>{2185c1c5-53ab-4e36-91ad-d0446d847c78}</Project>
+      <Name>Globe.Core.Converters</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Globe.Core.Utilities\Globe.Core.Utilities.csproj">
+      <Project>{1cc76977-41b6-45e9-b397-7c8069bdb60c}</Project>
+      <Name>Globe.Core.Utilities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Globe.Graphics.Bidimensional.Base\Globe.Graphics.Bidimensional.Base.csproj">
+      <Project>{16a1530e-4082-43ba-96a2-7e7a1347933d}</Project>
+      <Name>Globe.Graphics.Bidimensional.Base</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Globe.Graphics.Bidimensional.Common\Globe.Graphics.Bidimensional.Common.csproj">
+      <Project>{042a5e58-5d2f-4087-8a10-a1406881a18b}</Project>
+      <Name>Globe.Graphics.Bidimensional.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Globe.Xml.Serialization\Globe.Xml.Serialization.csproj">
+      <Project>{46ca3b61-6e7c-4606-8570-6088dd8933d7}</Project>
+      <Name>Globe.Xml.Serialization</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
