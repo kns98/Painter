@@ -1,0 +1,12 @@
+C:\Users\kevin\Downloads\painter_dec\Globe.Core.Utilities\bin\Debug\Globe.Core.Utilities.dll
+C:\Users\kevin\Downloads\painter_dec\Globe.Core.Utilities\bin\Debug\Globe.Core.Utilities.pdb
+C:\Users\kevin\Downloads\painter_dec\Globe.Core.Utilities\obj\Debug\Globe.Core.Utilities.csproj.AssemblyReference.cache
+C:\Users\kevin\Downloads\painter_dec\Globe.Core.Utilities\obj\Debug\Globe.Core.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Downloads\painter_dec\Globe.Core.Utilities\obj\Debug\Globe.Core.Utilities.dll
+C:\Users\kevin\Downloads\painter_dec\Globe.Core.Utilities\obj\Debug\Globe.Core.Utilities.pdb
+C:\Users\kevin\Downloads\painter_dec\Painter\Globe.Core.Utilities\bin\Debug\Globe.Core.Utilities.dll
+C:\Users\kevin\Downloads\painter_dec\Painter\Globe.Core.Utilities\bin\Debug\Globe.Core.Utilities.pdb
+C:\Users\kevin\Downloads\painter_dec\Painter\Globe.Core.Utilities\obj\Debug\Globe.Core.Utilities.csproj.AssemblyReference.cache
+C:\Users\kevin\Downloads\painter_dec\Painter\Globe.Core.Utilities\obj\Debug\Globe.Core.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Downloads\painter_dec\Painter\Globe.Core.Utilities\obj\Debug\Globe.Core.Utilities.dll
+C:\Users\kevin\Downloads\painter_dec\Painter\Globe.Core.Utilities\obj\Debug\Globe.Core.Utilities.pdb

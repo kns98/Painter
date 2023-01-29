@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <!--Project was exported from assembly: C:\Users\kevin\Downloads\Painter_demo\Painter_demo\Globe.Graphics.Bidimensional.Base.dll-->
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{16A1530E-4082-43BA-96A2-7E7A1347933D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AssemblyName>Globe.Graphics.Bidimensional.Base</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <ApplicationVersion>1.0.0.0</ApplicationVersion>
+    <FileAlignment>512</FileAlignment>
+    <RootNamespace>Globe.Graphics.Bidimensional.Base</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Globe.Core.Converters">
+      <HintPath>lib\Globe.Core.Converters.dll</HintPath>
+    </Reference>
+    <Reference Include="Globe.Core.Utilities">
+      <HintPath>lib\Globe.Core.Utilities.dll</HintPath>
+    </Reference>
+    <Reference Include="Globe.Graphics.Bidimensional.Common">
+      <HintPath>lib\Globe.Graphics.Bidimensional.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Globe.Xml.Serialization">
+      <HintPath>lib\Globe.Xml.Serialization.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Draw.cs" />
+    <Compile Include="DrawShape.cs" />
+    <Compile Include="DrawSloppedLine.cs" />
+    <Compile Include="DrawFreeLine.cs" />
+    <Compile Include="Text.cs" />
+    <Compile Include="MultiSelectGhost.cs" />
+    <Compile Include="Ellipse.cs" />
+    <Compile Include="Resource.cs" />
+    <Compile Include="GroupEngine.cs" />
+    <Compile Include="Rotate.cs" />
+    <Compile Include="Rectangle.cs" />
+    <Compile Include="GhostCollection.cs" />
+    <Compile Include="DrawingPanel.cs" />
+    <Compile Include="Deform.cs" />
+    <Compile Include="CopyPoint.cs" />
+    <Compile Include="MultiSelect.cs" />
+    <Compile Include="Image.cs" />
+    <Compile Include="Resize.cs" />
+    <Compile Include="Line.cs" />
+    <Compile Include="Pointer.cs" />
+    <Compile Include="Move.cs" />
+    <Compile Include="AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resource.resx" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

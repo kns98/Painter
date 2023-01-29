@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Globe.Graphics.Bidimensional.Base", "Globe.Graphics.Bidimensional.Base.csproj", "{16A1530E-4082-43BA-96A2-7E7A1347933D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16A1530E-4082-43BA-96A2-7E7A1347933D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16A1530E-4082-43BA-96A2-7E7A1347933D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16A1530E-4082-43BA-96A2-7E7A1347933D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16A1530E-4082-43BA-96A2-7E7A1347933D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {245ADA2F-ED9A-4BB2-901D-DAA0968689E6}
+	EndGlobalSection
+EndGlobal

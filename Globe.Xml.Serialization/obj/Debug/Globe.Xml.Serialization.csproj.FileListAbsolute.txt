@@ -1,0 +1,16 @@
+C:\Users\kevin\Downloads\painter_dec\Globe.Xml.Serialization\bin\Debug\Globe.Xml.Serialization.dll
+C:\Users\kevin\Downloads\painter_dec\Globe.Xml.Serialization\bin\Debug\Globe.Xml.Serialization.pdb
+C:\Users\kevin\Downloads\painter_dec\Globe.Xml.Serialization\obj\Debug\Globe.Xml.Serialization.csproj.AssemblyReference.cache
+C:\Users\kevin\Downloads\painter_dec\Globe.Xml.Serialization\obj\Debug\Globe.Xml.Serialization.Resource.resources
+C:\Users\kevin\Downloads\painter_dec\Globe.Xml.Serialization\obj\Debug\Globe.Xml.Serialization.csproj.GenerateResource.cache
+C:\Users\kevin\Downloads\painter_dec\Globe.Xml.Serialization\obj\Debug\Globe.Xml.Serialization.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Downloads\painter_dec\Globe.Xml.Serialization\obj\Debug\Globe.Xml.Serialization.dll
+C:\Users\kevin\Downloads\painter_dec\Globe.Xml.Serialization\obj\Debug\Globe.Xml.Serialization.pdb
+C:\Users\kevin\Downloads\painter_dec\Painter\Globe.Xml.Serialization\bin\Debug\Globe.Xml.Serialization.dll
+C:\Users\kevin\Downloads\painter_dec\Painter\Globe.Xml.Serialization\bin\Debug\Globe.Xml.Serialization.pdb
+C:\Users\kevin\Downloads\painter_dec\Painter\Globe.Xml.Serialization\obj\Debug\Globe.Xml.Serialization.csproj.AssemblyReference.cache
+C:\Users\kevin\Downloads\painter_dec\Painter\Globe.Xml.Serialization\obj\Debug\Globe.Xml.Serialization.Resource.resources
+C:\Users\kevin\Downloads\painter_dec\Painter\Globe.Xml.Serialization\obj\Debug\Globe.Xml.Serialization.csproj.GenerateResource.cache
+C:\Users\kevin\Downloads\painter_dec\Painter\Globe.Xml.Serialization\obj\Debug\Globe.Xml.Serialization.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Downloads\painter_dec\Painter\Globe.Xml.Serialization\obj\Debug\Globe.Xml.Serialization.dll
+C:\Users\kevin\Downloads\painter_dec\Painter\Globe.Xml.Serialization\obj\Debug\Globe.Xml.Serialization.pdb

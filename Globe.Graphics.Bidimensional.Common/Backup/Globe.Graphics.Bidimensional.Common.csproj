@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <!--Project was exported from assembly: C:\Users\kevin\Downloads\Painter_demo\Painter_demo\Globe.Graphics.Bidimensional.Common.dll-->
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{042A5E58-5D2F-4087-8A10-A1406881A18B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AssemblyName>Globe.Graphics.Bidimensional.Common</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <ApplicationVersion>1.0.0.0</ApplicationVersion>
+    <FileAlignment>512</FileAlignment>
+    <RootNamespace>Globe.Graphics.Bidimensional.Common</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Globe.Core.Converters">
+      <HintPath>lib\Globe.Core.Converters.dll</HintPath>
+    </Reference>
+    <Reference Include="Globe.Xml.Serialization">
+      <HintPath>lib\Globe.Xml.Serialization.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="GridManagerTypeConverter.cs" />
+    <Compile Include="ShapeCollection.cs" />
+    <Compile Include="IActions.cs" />
+    <Compile Include="IShape.cs" />
+    <Compile Include="ShapeCollectionEx.cs" />
+    <Compile Include="IDocument.cs" />
+    <Compile Include="Appearance.cs" />
+    <Compile Include="PolygonAppearance.cs" />
+    <Compile Include="GhostAppearance.cs" />
+    <Compile Include="PointFTypeConverter.cs" />
+    <Compile Include="Shape.cs" />
+    <Compile Include="CustomShape.cs" />
+    <Compile Include="Resource.cs" />
+    <Compile Include="CompositeShape.cs" />
+    <Compile Include="Tool.cs" />
+    <Compile Include="ShapeChangingHandler.cs" />
+    <Compile Include="MouseDownOnShape.cs" />
+    <Compile Include="MouseUpOnShape.cs" />
+    <Compile Include="MouseMoveOnShape.cs" />
+    <Compile Include="MouseClickOnShape.cs" />
+    <Compile Include="MouseDoubleClickOnShape.cs" />
+    <Compile Include="MouseWheel.cs" />
+    <Compile Include="PaintOnShape.cs" />
+    <Compile Include="Transformer.cs" />
+    <Compile Include="HorizontalVersors.cs" />
+    <Compile Include="VerticalVersors.cs" />
+    <Compile Include="Ghost.cs" />
+    <Compile Include="SizeFTypeConverter.cs" />
+    <Compile Include="CompositeTransformer.cs" />
+    <Compile Include="HitPositions.cs" />
+    <Compile Include="AppearanceTypeConverter.cs" />
+    <Compile Include="Select.cs" />
+    <Compile Include="MarkerDimensionHandler.cs" />
+    <Compile Include="MarkerColorHandler.cs" />
+    <Compile Include="BorderColorHandler.cs" />
+    <Compile Include="BorderWidthHandler.cs" />
+    <Compile Include="GrabberDimensionHandler.cs" />
+    <Compile Include="ActivePenHandler.cs" />
+    <Compile Include="AppearanceHandler.cs" />
+    <Compile Include="BackgroundColor1Handler.cs" />
+    <Compile Include="BackgroundColor2Handler.cs" />
+    <Compile Include="GradientAngleHandler.cs" />
+    <Compile Include="MovementHandler.cs" />
+    <Compile Include="TranslateHandler.cs" />
+    <Compile Include="ScaleHandler.cs" />
+    <Compile Include="RotateHandler.cs" />
+    <Compile Include="DeformHandler.cs" />
+    <Compile Include="MirrorHorizontalHandler.cs" />
+    <Compile Include="MirrorVerticalHandler.cs" />
+    <Compile Include="GridManager.cs" />
+    <Compile Include="LineAppearance.cs" />
+    <Compile Include="AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resource.resx" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

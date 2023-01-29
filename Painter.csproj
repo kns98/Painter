@@ -55,23 +55,23 @@
     <EmbeddedResource Include="Properties\Resources.resx" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Globe.Core.Converters\Globe.Core.Converters.csproj">
+    <ProjectReference Include="Globe.Core.Converters\Globe.Core.Converters.csproj">
       <Project>{2185c1c5-53ab-4e36-91ad-d0446d847c78}</Project>
       <Name>Globe.Core.Converters</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Globe.Core.Utilities\Globe.Core.Utilities.csproj">
+    <ProjectReference Include="Globe.Core.Utilities\Globe.Core.Utilities.csproj">
       <Project>{1cc76977-41b6-45e9-b397-7c8069bdb60c}</Project>
       <Name>Globe.Core.Utilities</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Globe.Graphics.Bidimensional.Base\Globe.Graphics.Bidimensional.Base.csproj">
+    <ProjectReference Include="Globe.Graphics.Bidimensional.Base\Globe.Graphics.Bidimensional.Base.csproj">
       <Project>{16a1530e-4082-43ba-96a2-7e7a1347933d}</Project>
       <Name>Globe.Graphics.Bidimensional.Base</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Globe.Graphics.Bidimensional.Common\Globe.Graphics.Bidimensional.Common.csproj">
+    <ProjectReference Include="Globe.Graphics.Bidimensional.Common\Globe.Graphics.Bidimensional.Common.csproj">
       <Project>{042a5e58-5d2f-4087-8a10-a1406881a18b}</Project>
       <Name>Globe.Graphics.Bidimensional.Common</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Globe.Xml.Serialization\Globe.Xml.Serialization.csproj">
+    <ProjectReference Include="Globe.Xml.Serialization\Globe.Xml.Serialization.csproj">
       <Project>{46ca3b61-6e7c-4606-8570-6088dd8933d7}</Project>
       <Name>Globe.Xml.Serialization</Name>
     </ProjectReference>

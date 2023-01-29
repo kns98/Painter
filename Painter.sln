@@ -4,15 +4,15 @@ VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Painter", "Painter.csproj", "{19B0FCAF-845B-485C-912A-B6145D9FF9CB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Globe.Core.Converters", "..\Globe.Core.Converters\Globe.Core.Converters.csproj", "{2185C1C5-53AB-4E36-91AD-D0446D847C78}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Globe.Core.Converters", "Globe.Core.Converters\Globe.Core.Converters.csproj", "{2185C1C5-53AB-4E36-91AD-D0446D847C78}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Globe.Core.Utilities", "..\Globe.Core.Utilities\Globe.Core.Utilities.csproj", "{1CC76977-41B6-45E9-B397-7C8069BDB60C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Globe.Core.Utilities", "Globe.Core.Utilities\Globe.Core.Utilities.csproj", "{1CC76977-41B6-45E9-B397-7C8069BDB60C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Globe.Graphics.Bidimensional.Base", "..\Globe.Graphics.Bidimensional.Base\Globe.Graphics.Bidimensional.Base.csproj", "{16A1530E-4082-43BA-96A2-7E7A1347933D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Globe.Graphics.Bidimensional.Base", "Globe.Graphics.Bidimensional.Base\Globe.Graphics.Bidimensional.Base.csproj", "{16A1530E-4082-43BA-96A2-7E7A1347933D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Globe.Graphics.Bidimensional.Common", "..\Globe.Graphics.Bidimensional.Common\Globe.Graphics.Bidimensional.Common.csproj", "{042A5E58-5D2F-4087-8A10-A1406881A18B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Globe.Graphics.Bidimensional.Common", "Globe.Graphics.Bidimensional.Common\Globe.Graphics.Bidimensional.Common.csproj", "{042A5E58-5D2F-4087-8A10-A1406881A18B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Globe.Xml.Serialization", "..\Globe.Xml.Serialization\Globe.Xml.Serialization.csproj", "{46CA3B61-6E7C-4606-8570-6088DD8933D7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Globe.Xml.Serialization", "Globe.Xml.Serialization\Globe.Xml.Serialization.csproj", "{46CA3B61-6E7C-4606-8570-6088DD8933D7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
