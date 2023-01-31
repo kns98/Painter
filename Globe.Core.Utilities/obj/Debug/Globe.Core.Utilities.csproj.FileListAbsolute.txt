@@ -10,3 +10,5 @@ C:\Users\kevin\Downloads\painter_dec\Painter\Globe.Core.Utilities\obj\Debug\Glob
 C:\Users\kevin\Downloads\painter_dec\Painter\Globe.Core.Utilities\obj\Debug\Globe.Core.Utilities.csproj.CoreCompileInputs.cache
 C:\Users\kevin\Downloads\painter_dec\Painter\Globe.Core.Utilities\obj\Debug\Globe.Core.Utilities.dll
 C:\Users\kevin\Downloads\painter_dec\Painter\Globe.Core.Utilities\obj\Debug\Globe.Core.Utilities.pdb
+C:\Users\DELL\Source\Repos\kns98\Painter\Globe.Core.Utilities\obj\Debug\Globe.Core.Utilities.dll
+C:\Users\DELL\Source\Repos\kns98\Painter\Globe.Core.Utilities\obj\Debug\Globe.Core.Utilities.pdb

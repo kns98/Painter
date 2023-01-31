@@ -14,3 +14,5 @@ C:\Users\kevin\Downloads\painter_dec\Painter\Globe.Xml.Serialization\obj\Debug\G
 C:\Users\kevin\Downloads\painter_dec\Painter\Globe.Xml.Serialization\obj\Debug\Globe.Xml.Serialization.csproj.CoreCompileInputs.cache
 C:\Users\kevin\Downloads\painter_dec\Painter\Globe.Xml.Serialization\obj\Debug\Globe.Xml.Serialization.dll
 C:\Users\kevin\Downloads\painter_dec\Painter\Globe.Xml.Serialization\obj\Debug\Globe.Xml.Serialization.pdb
+C:\Users\DELL\Source\Repos\kns98\Painter\Globe.Xml.Serialization\obj\Debug\Globe.Xml.Serialization.dll
+C:\Users\DELL\Source\Repos\kns98\Painter\Globe.Xml.Serialization\obj\Debug\Globe.Xml.Serialization.pdb

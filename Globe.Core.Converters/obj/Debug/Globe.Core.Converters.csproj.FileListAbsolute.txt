@@ -10,3 +10,5 @@ C:\Users\kevin\Downloads\painter_dec\Painter\Globe.Core.Converters\obj\Debug\Glo
 C:\Users\kevin\Downloads\painter_dec\Painter\Globe.Core.Converters\obj\Debug\Globe.Core.Converters.csproj.CoreCompileInputs.cache
 C:\Users\kevin\Downloads\painter_dec\Painter\Globe.Core.Converters\obj\Debug\Globe.Core.Converters.dll
 C:\Users\kevin\Downloads\painter_dec\Painter\Globe.Core.Converters\obj\Debug\Globe.Core.Converters.pdb
+C:\Users\DELL\Source\Repos\kns98\Painter\Globe.Core.Converters\obj\Debug\Globe.Core.Converters.dll
+C:\Users\DELL\Source\Repos\kns98\Painter\Globe.Core.Converters\obj\Debug\Globe.Core.Converters.pdb

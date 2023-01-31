@@ -24,3 +24,5 @@ C:\Users\kevin\Downloads\painter_dec\Painter\Globe.Graphics.Bidimensional.Base\o
 C:\Users\kevin\Downloads\painter_dec\Painter\Globe.Graphics.Bidimensional.Base\obj\Debug\Globe.Graphics.Bidimensional.Base.csproj.CopyComplete
 C:\Users\kevin\Downloads\painter_dec\Painter\Globe.Graphics.Bidimensional.Base\obj\Debug\Globe.Graphics.Bidimensional.Base.dll
 C:\Users\kevin\Downloads\painter_dec\Painter\Globe.Graphics.Bidimensional.Base\obj\Debug\Globe.Graphics.Bidimensional.Base.pdb
+C:\Users\DELL\Source\Repos\kns98\Painter\Globe.Graphics.Bidimensional.Base\obj\Debug\Globe.Graphics.Bidimensional.Base.dll
+C:\Users\DELL\Source\Repos\kns98\Painter\Globe.Graphics.Bidimensional.Base\obj\Debug\Globe.Graphics.Bidimensional.Base.pdb
